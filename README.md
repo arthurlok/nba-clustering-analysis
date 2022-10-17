@@ -11,4 +11,4 @@ Use a machine learning approach to predict team win rates on a monthly basis usi
 By completing the above, we aim to understand how different archetypes of players have contributed to team success and what trends there have been in the value of each archetype. Practically, this research could have implications for team general managers as they decide how to value players on their team or players they are looking to acquire in the context of their entire team composition. 
 
 ## Full Report
-[Link](https://duckduckgo.com)
+[Link](https://docs.google.com/document/d/1DfsE9E38d4QuIROl607nRNQPQLCyepqiD1_BmkskwuA/edit?usp=sharing)
